@@ -1,6 +1,6 @@
 # boggle
 
-Download and run main.c to play a simple version of the the very popular word game, Boggle. 
+Download and run boggle.c to play a simple version of the the very popular word game, Boggle. 
 
 **Note**:
 This program includes several component of Boggle, but avoids some of the harder parts, like validating that a string is actually a word in the dictionary.
